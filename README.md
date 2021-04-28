@@ -1,0 +1,6 @@
+-  👋 Hi, I’m jerko
+-  I'm a data science student at the Univeristy of Naples Federico II
+-  machine learning enthusiast
+-  wannabe bioinformatics
+-  android developer with an attention to advanced ux
+-  linux supporter
