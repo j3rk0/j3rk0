@@ -1,6 +1,4 @@
 -  👋 Hi, I’m jerko
--  I'm an AI student at the Univeristy of Naples Federico II
--  machine learning enthusiast
--  wannabe bioinformatics
--  android developer with an attention to non conventional ux
--  linux supporter
+-  computer scientist and AI enthusiast
+-  Computetional biology Phd researcher at TIGEM research center
+-  linux and open source supporter :penguin:
