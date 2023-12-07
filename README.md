@@ -1,4 +1,6 @@
--  👋 Hi, I’m jerko
--  Computer scientist and AI enthusiast
--  Computational biology Phd researcher at TIGEM research center
--  Linux and open source supporter :penguin:
+-  👋 Hi, I’m jerko!
+-  Computer scientist and AI enthusiast.
+-  Computational biology Phd researcher at TIGEM research center.
+-  Bioinformatician ( more informatician than Bio).
+-  :penguin: Linux and open source supporter 
+-  :skull_and_crossbones: Pirate ethics 
