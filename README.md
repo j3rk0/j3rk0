@@ -1,4 +1,4 @@
 -  👋 Hi, I’m jerko
 -  computer scientist and AI enthusiast
--  Computetional biology Phd researcher at TIGEM research center
+-  Computational biology Phd researcher at TIGEM research center
 -  linux and open source supporter :penguin:
